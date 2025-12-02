@@ -1,0 +1,5 @@
+{
+  "name": "Gym Admin Dashboard",
+  "description": "A dark-themed administrative dashboard for gym management featuring statistics, charts, and activity feeds.",
+  "requestFramePermissions": []
+}
